@@ -22,7 +22,7 @@ Each entry is dated, and I try to reflect on what I learned that day — even if
 ---
 
 ## Why I Made This
-I’m a CS student who just finished the first year of college. Since I’m aiming for a career in cloud computing, I’ve been slowly building my fundamentals. I created this repo to:
+I’m a CS student who is in the first year of college. Since I’m aiming for a career in cloud computing, I’ve been slowly building my fundamentals. I created this repo to:
 
 - Document what I practice daily
 - Learn Git and version control along the way
