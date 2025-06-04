@@ -1,0 +1,11 @@
+June 3 – Project Setup & Navigation
+- Created backup_project folder and subfolders
+- Set up alias (bp) for quick directory access
+- Learned directory navigation commands
+
+June 4 – File Permissions & Management Practice
+- Used chmod with variations (777, 600, etc.)
+- Moved and copied files between folders
+- Tried deleting files and folders
+- Attempted chown (permission denied on WSL)
+
