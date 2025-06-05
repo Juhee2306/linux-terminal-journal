@@ -9,3 +9,9 @@ June 4 – File Permissions & Management Practice
 - Tried deleting files and folders
 - Attempted chown (permission denied on WSL)
 
+June 5 – Archive & Permission Practice
+- Created and extracted .tar.gz archives using tar
+- Practiced chmod with 777, 600, and 644 on files
+- Learned archive folder management
+- Attempted chown (expected sudo password prompt)
+- Updated logs and practiced Git commands
