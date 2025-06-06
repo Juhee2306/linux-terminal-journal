@@ -15,3 +15,9 @@ June 5 – Archive & Permission Practice
 - Learned archive folder management
 - Attempted chown (expected sudo password prompt)
 - Updated logs and practiced Git commands
+
+June 6 – Search, Redirection & Disk Usage
+- Practiced grep for searching within files
+- Learned output redirection with > and piping with |
+- Used du and df to monitor folder and system disk usage
+- Organized Day 4 practice in a new subfolder
