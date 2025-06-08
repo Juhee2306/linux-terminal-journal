@@ -21,3 +21,22 @@ June 6 – Search, Redirection & Disk Usage
 - Learned output redirection with > and piping with |
 - Used du and df to monitor folder and system disk usage
 - Organized Day 4 practice in a new subfolder
+
+June 7 – Process and File Tools Practice
+
+- Used `ps aux`, `top`, and `htop` to monitor system processes
+- Practiced running `sleep` in background with `&`, and controlled it using `bg`, `fg`, and `jobs`
+- Terminated a dummy process using `kill` after finding its PID with `ps aux | grep sleep`
+- Used `find` to locate all `.txt` files and specific filenames like `manual_log.txt`
+- Explored `which` to identify the full path of commands like `bash`, `ls`, and `git`
+- Used `whereis` to see binary, source, and man page locations of common tools
+
+June 8 – Disk & File System Monitoring + Mounting Practice
+
+- Used `lsblk`, `df -h`, and `du -sh *` to explore disk usage
+- Checked mounted filesystems using `mount`, `findmnt`, and `/proc/mounts`
+- Created a 10MB virtual disk image using `dd`
+- Formatted the image with `ext4` using `mkfs.ext4`
+- Mounted the disk to a folder with `sudo mount -o loop`
+- Explored contents and confirmed default structure
+- Safely unmounted the disk using `umount`
