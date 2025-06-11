@@ -34,9 +34,21 @@ June 7 – Process and File Tools Practice
 June 8 – Disk & File System Monitoring + Mounting Practice
 
 - Used `lsblk`, `df -h`, and `du -sh *` to explore disk usage
-- Checked mounted filesystems using `mount`, `findmnt`, and `/proc/mounts`
-- Created a 10MB virtual disk image using `dd`
+- Checked mounted filesystems using `mount`, `findmnt`, and `/proc/mounts`- Created a 10MB virtual disk image using `dd`
 - Formatted the image with `ext4` using `mkfs.ext4`
 - Mounted the disk to a folder with `sudo mount -o loop`
 - Explored contents and confirmed default structure
 - Safely unmounted the disk using `umount`
+
+June 10 – Users, Groups & Permissions Practice
+-Created new user practiceuser using adduser and set password
+-Added practiceuser to sudo group using usermod -aG sudo
+-Created new group projectgroup using groupadd
+-Added user to the group with usermod -aG projectgroup
+-Created file and changed group ownership using chown :groupname
+-Gave group read/write access with chmod g+rw
+-Switched to user using su - practiceuser to test access
+-Verified permissions with ls -l and groups command
+
+
+
